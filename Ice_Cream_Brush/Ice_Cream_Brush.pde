@@ -41,7 +41,7 @@ boolean mouseDragged = false;
 float angle = 0.0;
 boolean erase = false;
 
-color bColor = color(172, 228, 239);
+color bColor = color(255);
 
 void setup() {
   //size(displayWidth, displayHeight);
